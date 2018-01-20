@@ -71,6 +71,7 @@ namespace SmartSystem
 
         public int DetermineComboWeighting()
         {
+            return 0;
         }
     }
 
